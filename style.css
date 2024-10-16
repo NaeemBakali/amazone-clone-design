@@ -1,9 +1,9 @@
-@media screen  and (max-width: 768px) {
-    * {
-        margin: 0px;
-        padding: 0px;
-    }
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
+@media screen  and (max-width:600px) {
     .div1 {
         background-color: #92dfd9;
         height: 65px;
@@ -11,7 +11,7 @@
 
     .bi-search {
         position: relative;
-        left: 4000px;
+        right: 295px;
         top: 5px;
     }
 
