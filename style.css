@@ -1,0 +1,318 @@
+@media only screen and (max-width: 400px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .div1 {
+        background-color: #92dfd9;
+        height: 65px;
+    }
+
+    .bi-search {
+        position: relative;
+        right: 340px;
+        top: 5px;
+    }
+
+    .bi-qr-code-scan {
+        position: relative;
+        left: 160px;
+        bottom: 30px;
+    }
+
+    .bi-mic {
+        position: relative;
+        left: 180px;
+        bottom: 30px;
+    }
+
+    .div1 span {
+        position: relative;
+        left: 50px;
+        bottom: 35px;
+        color: #eaeaea;
+    }
+
+    .bi-qr-code-scan2 {
+        position: relative;
+        left: 200px;
+        bottom: 30px;
+    }
+
+    .div2 {
+        background-color: #c8f1e3;
+        padding: 10px;
+        display: flex;
+        height: 20px;
+    }
+
+    .div2 span {
+        font-size: 10px;
+    }
+
+    .photo-1 {
+        max-height: 100%;
+        max-width: 100%;
+    }
+
+    .div3 {
+        background-color: #f9da7d;
+        padding: 10px;
+        height: 75px;
+    }
+
+    .round-1 {
+        display: flex;
+        justify-content: space-around;
+        margin-top: -10px;
+    }
+
+    .round-1 p {
+        font-size: 10px;
+        border: 1px solid gold;
+        border-radius: 50%;
+        height: 35px;
+        width: 40px;
+        padding: 8px;
+        background-color: white;
+        color: purple;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 15px;
+    }
+
+    .round-1 p {
+        text-align: center;
+    }
+
+    .l-1 {
+        font-size: 12px;
+        margin-left: 30px;
+    }
+
+    .l-2 {
+        font-size: 12px;
+        margin-left: 38px;
+    }
+
+    .l-3 {
+        font-size: 12px;
+        margin-left: 40px;
+    }
+
+    .new {
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+        background-color: black;
+        border-radius: 10px;
+        position: absolute;
+        left: 180px;
+        bottom: 220px;
+        height: 15px;
+        width: 50px;
+        text-align: center;
+    }
+
+    .Free {
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+        background-color: black;
+        border-radius: 10px;
+        position: absolute;
+        left: 330px;
+        bottom: 220px;
+        height: 15px;
+        width: 50px;
+        text-align: center;
+
+    }
+
+    .l-4 {
+        font-size: 12px;
+        margin-left: 30px;
+    }
+
+    .l-5 {
+        font-size: 10px;
+        margin-left: 30px;
+    }
+
+    .photo-2,
+    .photo-3,
+    .photo-4,
+    .photo-5 {
+        position: relative;
+        height: 50px;
+        width: 50px;
+        border-radius: 30px 30px 30px 30px;
+        margin-top: 15px;
+    }
+
+    .photo-3 {
+        width: 50px;
+    }
+
+    .cart1 {
+        position: relative;
+        bottom: 70px;
+        background-color: #f9da7d;
+        width: 30%;
+        height: 150px;
+        margin-left: 10px;
+        padding: 20px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: space-between;
+        
+    }
+
+    .photo-6 {
+        height: 50px;
+        width: 50px;
+        border-radius: 35px 35px 35px 35px;
+    }
+
+    .bi-currency-rupee {
+        border: 1px solid black;
+        padding: 3px;
+        margin-top: 7px;
+        margin-left: 5px;
+    }
+
+    .img2 {
+        border: 1px solid orangered;
+        border-radius: 50px;
+        background-color: white;
+        margin-top: 4px;
+        padding-bottom: 20px;
+        padding: 5px;
+        height: 30px;
+        width: 30px;
+    }
+
+    .bi-qr-code-scan3 {
+        position: absolute;
+        left: 13px;
+        bottom: 13px;
+    }
+
+    .img3 {
+        border: 1px solid orangered;
+        border-radius: 50px;
+        background-color: white;
+        margin-top: 4px;
+        padding: 5px;
+        height: 35px;
+        width: 35px;
+        position: relative;
+        left: 35px;
+        bottom: 155px;
+    }
+
+    .photo-7 {
+        position: absolute;
+        left: 9px;
+        bottom: 9px;
+        height: 30px;
+        width: 30px;
+    }
+
+    .img4 {
+        border: 1px solid orangered;
+        border-radius: 50px;
+        background-color: white;
+        padding: 5px;
+        height: 35px;
+        width: 35px;
+        position: relative;
+        left: 105px;
+        bottom: 205px;
+    }    
+    .A-1 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 8px;
+        position: absolute;
+        bottom: 10px;
+        left: 35px;
+    }
+    .A-2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 8px;
+        position: absolute;
+        bottom: 10px;
+        left: 105px;
+    }
+    .A-3 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 8px;
+        position: absolute;
+        bottom: -70px;
+        left: 35px;
+    }
+    .A-4 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 8px;
+        position: absolute;
+        bottom: -70px;
+        left: 100px;
+    }
+    .Spin {
+        font-size: 12px;
+        font-weight: bold;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .brd {
+        border: 1px solid black;
+        border-radius: 5px 5px 0px 0px;
+        background-color: white;
+        width: 27%;
+        position: absolute;
+        bottom: 50px;
+        left: 175px;
+        padding: 5px;
+    }
+    .brd1 {
+        border: 1px solid black;
+        border-radius: 5px 5px 0px 0px;
+        background-color: white;
+        width: 30%;
+        position: absolute;
+        left: 300px;
+        bottom: 50px;
+        padding: 7px;
+    }
+    .photo-8 {
+        height: 100px;
+        width: 100px;
+        position: relative;
+        border-radius: 70px 70px 70px 70px;
+        bottom: -10px;
+        left: 10px
+    }
+    .color {
+        background-color: #0591fb;
+        position: absolute;
+        height: 130px;
+        width: 120px;
+        bottom: -85px;
+        left: 175px
+    }
+    .color2 {
+        background-color: #0591fb;
+        position: absolute;
+        height: 130px;
+        width: 135px;
+        bottom: -85px;
+        left: 300px
+    }
+    .photo-9 {
+        height: 100px;
+        width: 100px;
+        position: relative;
+        border-radius: 70px 70px 70px 70px;
+        bottom: -10px;
+        left: 20px
+    }
+}
