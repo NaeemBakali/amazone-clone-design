@@ -8,12 +8,12 @@
         background-color: #92dfd9;
         height: 65px;
     }
-/* 
+
     .bi-search {
         position: relative;
-        right: 340px;
+        right: 295px;
         top: 5px;
-    } */
+    }
 
     .bi-qr-code-scan {
         position: relative;
@@ -328,12 +328,4 @@
     }
 }
 
-@media only screen and (min-width: 350px) and (max-width: 400px) {
-    
-    .bi-search {
-        position: relative;
-        right: 295px;
-        top: 5px;
-    }
-
-}
+@media only screen and (min-width: 350px) and (max-width: 400px) {}
