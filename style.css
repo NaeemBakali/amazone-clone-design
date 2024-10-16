@@ -3,42 +3,42 @@
     padding: 0px;
 }
 
-@media screen  and (max-width:768px) {
+@media screen  and (max-width:767px) {
     .div1 {
         background-color: #92dfd9;
         height: 65px;
     }
 
-    .bi-search {
+    /* .bi-search {
         position: absolute;
-        right: 400px;
+        right: 295px;
         top: 5px;
-    }
+    } */
 
-    .bi-qr-code-scan {
+    /* .bi-qr-code-scan {
         position: relative;
         left: 160px;
         bottom: 30px;
-    }
+    } */
 
-    .bi-mic {
+    /* .bi-mic {
         position: relative;
         left: 180px;
         bottom: 30px;
-    }
+    } */
 
-    .div1 span {
+    /* .div1 span {
         position: relative;
         left: 50px;
         bottom: 35px;
         color: #eaeaea;
-    }
+    } */
 
-    .bi-qr-code-scan2 {
+    /* .bi-qr-code-scan2 {
         position: relative;
         left: 200px;
         bottom: 30px;
-    }
+    } */
 
     .div2 {
         background-color: #c8f1e3;
