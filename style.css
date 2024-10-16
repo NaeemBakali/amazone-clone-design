@@ -10,7 +10,7 @@
     }
 
     .bi-search {
-        position: relative;
+        position: absolute;
         right: 340px;
         top: 5px;
     }
