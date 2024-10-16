@@ -329,10 +329,10 @@
 }
 
 @media only screen and (min-width: 350px) and (max-width: 400px) {
-
+    
     .bi-search {
         position: relative;
-        right: 300px;
+        right: 380px;
         top: 5px;
     }
 
